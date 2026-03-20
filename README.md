@@ -1,9 +1,3 @@
-
----
-
-# `README.md`
-
-````markdown
 # IR Inverted Matrix Workshop
 
 ## PROG8245 – Active Learning Workshop  
